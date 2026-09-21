@@ -1,0 +1,46 @@
+### CMake build directories
+build/
+Build/
+cmake-build-*/
+out/
+
+### CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+install_manifest.txt
+compile_commands.json
+_deps/
+
+### C++ build artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.pdb
+*.ilk
+
+### IDE files
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+
+### Test and coverage output
+Testing/
+coverage/
+*.gcda
+*.gcno
+*.gcov
+
+### OS files
+.DS_Store
+Thumbs.db
